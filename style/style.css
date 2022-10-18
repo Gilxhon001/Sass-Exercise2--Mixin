@@ -1,0 +1,41 @@
+.container {
+  border: 1px solid #cc0000;
+  padding: 5px;
+}
+.container-title {
+  color: green;
+  text-align: center;
+  text-decoration: underline solid blue 1px;
+  text-underline-offset: 8px;
+}
+.container .article {
+  display: flex;
+  flex-direction: row;
+  margin: 15px;
+}
+.container .article-card {
+  color: green;
+  border: 1px solid blue;
+  font-size: 25px;
+  text-align: center;
+  padding: 20px;
+  width: 100%;
+}
+.container .article-card_blue {
+  color: #3333ff;
+  border: 1px solid green;
+  font-size: 16px;
+  text-align: center;
+  padding: 20px;
+  width: 100%;
+}
+.container .article-card_red {
+  color: #ff3333;
+  border: 1px solid green;
+  font-size: 16px;
+  text-align: center;
+  padding: 20px;
+  width: 100%;
+}
+
+/*# sourceMappingURL=style.css.map */
